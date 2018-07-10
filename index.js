@@ -25,12 +25,12 @@ var number = n - 1;
 }
 
 function makeInt(n){
- var number = parseInt(n)
+ var number = parseInt(n, 10)
  return number;
 }
 
 function preserveDecimal(n){
- var number = parseFloat(n)
+ var number = parseFloat(n, 10)
  return number;
 }
 

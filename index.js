@@ -25,7 +25,7 @@ var number = n - 1;
 }
 
 function makeInt(n){
- var number = 
+ var number =
 }
 
 

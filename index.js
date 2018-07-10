@@ -29,4 +29,9 @@ function makeInt(n){
  return number;
 }
 
+function makeInt(n){
+ var number = parseInt(n)
+ return number;
+}
+
 
